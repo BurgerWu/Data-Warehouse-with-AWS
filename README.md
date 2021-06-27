@@ -1,5 +1,5 @@
 # Data Warehouse with AWS
-![image](image/AWS.png) ![image](image/S3.png) ![image](image/Redshift.png)
+<img src="image/AWS.png" width="200"/><img src="image/S3.png" width="200"/><img src="image/Redshift.png" width="200"/>
 
 ## Motivation
 This project is the hands-on project provided by udacity data engineering nanodegree. We have original event log data and songs data storing inside AWS S3 storage, it is our goal to stage the table in Redshift and conduct data transformation to obtain target star schema structure in Redshift.
