@@ -20,6 +20,10 @@ Below lists the detailed data processing procedure in this project
 6. Check our results in Redshift console.
 
 ## Schema of Tables
+
+Below is the diagram of schemas and structure of this project <br>
+<img src = "image/DWH_Redshift.png" width = 750px>
+
 ### Staging Tables
 
 - **Staging_Events: Records of all activities** <br>
